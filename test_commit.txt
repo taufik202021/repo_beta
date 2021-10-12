@@ -1,0 +1,1 @@
+ini merupakan file untuk mencoba bagaimana melakukan commit di github
